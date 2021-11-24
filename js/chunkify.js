@@ -2,6 +2,7 @@ const chunkify = (inputArray, perChunk) => {
 
 }
 
+console.log("modificação")
 console.log("----------------------------");
 console.log("Chunks de 1 items", chunkify([1, 2, 3, 4], 1));
 console.log("----------------------------");
